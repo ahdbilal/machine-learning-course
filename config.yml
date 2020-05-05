@@ -3,6 +3,7 @@ description: Intro to Machine Learning
 template:
   repo: machine-learning-template
   name: machine-learning
+  description: repo that hosts data and code for the "Intro to ML" course
 before:
   - type: createIssue
     title: Welcome!
