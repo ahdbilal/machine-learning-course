@@ -4,6 +4,29 @@ template:
   repo: machine-learning-template
   name: machine-learning
   description: repo that hosts data and code for the "Intro to ML" course
+preferences:
+- type: radio
+  name: gitTool
+  label: Preferred Git tool
+  description: Learn right from the web UI, or using your chosen tool
+  options:
+  - label: Use the GitHub.com web interface
+    value: dotcom
+  - label: Use the command line
+    value: cli
+  - label: Use Visual Studio Code
+    value: vscode
+- type: dropdown
+  name: language
+  label: Language
+  description: Choose your preferred language.
+  options:
+  - label: English
+    value: en
+  - label: Español
+    value: es
+  - label: 日本語
+    value: ja
 before:
   - type: createIssue
     title: Welcome!
