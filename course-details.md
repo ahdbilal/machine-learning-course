@@ -2,7 +2,7 @@ This is the description we show on the course page [here](https://lab.github.com
 ​
 
 ​
-Be sure to tell the learner about the technology you are teaching, why they should learn it, how they can use it, and what you will teach them.
+Tech: python
 ​
 
 
