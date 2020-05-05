@@ -6,4 +6,4 @@ Tech: python
 ​
 
 
-Include information on how they can reach you for questions about the content or course. 
+Email/phone for more details
